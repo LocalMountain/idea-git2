@@ -1,4 +1,4 @@
-public class Suibain{
+public class Suibian {
 	int age ;
 	String name;
 }
